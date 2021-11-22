@@ -2,6 +2,8 @@
 
 This is a MUI v5 project boilerplate featuring Next.js with TypeScript.
 
+![About Page](./screenshot/about.png)
+
 ---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
