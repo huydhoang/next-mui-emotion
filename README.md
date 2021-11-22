@@ -2,7 +2,7 @@
 
 This is a MUI v5 project boilerplate featuring Next.js with TypeScript.
 
-![About Page](./screenshot/about.png)
+![About Page](https://raw.githubusercontent.com/huydhoang/next-mui-emotion/main/screenshot/about.PNG)
 
 ---
 
