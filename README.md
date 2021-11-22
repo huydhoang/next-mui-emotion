@@ -1,6 +1,6 @@
 # MUI v5 + Next.js with TypeScript
-This is a MUI v5 project boilerplate featuring Next.js with TypeScript.
 
+This is a MUI v5 project boilerplate featuring Next.js with TypeScript.
 
 ---
 

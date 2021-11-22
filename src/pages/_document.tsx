@@ -1,5 +1,4 @@
 import * as React from 'react';
-// eslint-disable-next-line @next/next/no-document-import-in-page
 import Document, { Html, Head, Main, NextScript } from 'next/document';
 import createEmotionServer from '@emotion/server/create-instance';
 import theme from '../../styles/theme';
