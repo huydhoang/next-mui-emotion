@@ -2,7 +2,7 @@
 
 This is a MUI v5 project boilerplate featuring Next.js with TypeScript.
 
-[Live Demo](next-mui-emotion.vercel.app)
+[Live Demo](https://next-mui-emotion.vercel.app)
 
 
 ![About Page](https://raw.githubusercontent.com/huydhoang/next-mui-emotion/main/screenshot/about.PNG)
